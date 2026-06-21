@@ -1,0 +1,4 @@
+input_folder: "/path/to/your/images"
+recursive: true
+report_file: "report.csv"
+workers: 8
