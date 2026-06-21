@@ -75,7 +75,7 @@ The tool prints a summary report including:
 
 Example output:
 ```
-Input Folder : D:/Gallery/Draw/game
+Input Folder : D:/Gallery
 Recursive    : true
 Workers      : 8
 
